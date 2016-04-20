@@ -1,0 +1,222 @@
+@font-face
+{
+    font-family: 'Avenir';
+    src: url('AvenirLTStd-Book.otf');
+}
+
+*
+{
+    font-family: 'Avenir';
+}
+
+
+.carousel .item
+{
+    height: 200px;
+}
+
+.carousel img
+{
+    position: absolute;
+    bottom: -50px;
+    left: 0px;
+    width: 100%;
+}
+
+.banniere
+{
+    max-height: 230px;
+}
+
+.navbar
+{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.row
+{
+    min-height: 100px;
+}
+
+.portfolio-item
+{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.portfolio-item > p
+{
+    text-align: justify;
+}
+
+.img-responsive
+{
+    margin: auto;
+    max-height: 150px;
+}
+
+
+
+.navbar-footer
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.navbar-entete
+{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #202020;
+    color: white;
+    text-align: center;
+}
+
+.my-title
+{
+    font-size: 1.5em;
+    min-height: 50px;
+    padding-top: 10px;
+    margin: 0px;
+}
+
+.encadre
+{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+footer
+{
+    margin-top: 25px;
+}
+
+footer ul
+{
+    list-style-type: none;
+    padding: 0;
+    margin: auto;
+}
+
+footer ul li
+{
+    display: inline-block;
+}
+
+footer ul li a
+{
+    color: #9d9d9d;
+}
+
+footer ul li a:hover
+{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.journal p::first-letter
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+#map
+{
+    width: 300px;
+    height: 300px;
+}
+
+.fiche-produit
+{
+    padding-top: 20px;
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+
+.myAvis
+{
+    max-height: 300px;
+    overflow: scroll;
+    margin-bottom: 20px;
+    border: 1px solid #DDDDDD;
+    border-radius: 10px;
+}
+
+.img-panier
+{
+    width: 100px;
+}
+
+.img-promo
+{
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.img-promo-details
+{
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    right: 50px;
+}
+
+.my-icon img
+{
+    width: 20px;
+}
+
+.sort-icon
+{
+    width: 15px;
+}
+
+table
+{
+
+}
+
+table td, th
+{
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+table .url_cell
+{
+    display: block;
+}
+
+table .url_cell:hover
+{
+    text-decoration: none;
+}
+
+.form-inline
+{
+    text-align: center;
+}
+
+.container.col-md-12
+{
+    float: none;
+    max-width: 1200px;
+    margin: 0 auto !important;
+}

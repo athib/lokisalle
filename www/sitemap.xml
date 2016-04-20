@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.athib.com/lokisalle/index.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/reservation.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/recherche.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/connexion.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/inscription.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/mentions.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/contact.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/reservation_details.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/cgv.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/plan_site.php</loc>
+</url>
+<url>
+  <loc>http://www.athib.com/lokisalle/mdpperdu.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+
+</urlset>
